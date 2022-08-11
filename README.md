@@ -1,6 +1,8 @@
-# SY_AI_B_G16_laptop-price-predictor
+laptop-price-predictor
 Preview - https://laptop-price-prediction-model.herokuapp.com/
 # Welcome To My Project
+Laptop Price Predictor Is Machine Learning Project,
+This Project i use 2 Type Dataset First For Train And Second For Test,
 This Project Is Devloped By Abhishek, Pravin, Vivek
 Roll No{54'33}
 # 1
